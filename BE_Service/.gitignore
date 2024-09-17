@@ -1,0 +1,36 @@
+.env
+
+ Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore local configuration files
+*.env
+*.local
+
+# Ignore database files
+*.sqlite3
+*.db
+
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore test coverage reports
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# Ignore build and distribution directories
+build/
+dist/
+*.egg-info/

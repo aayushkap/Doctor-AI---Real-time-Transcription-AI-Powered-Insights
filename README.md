@@ -22,7 +22,7 @@ Doctor AI is a real-time voice transcription tool that listens to your speech, c
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/doctor-ai.git
+   git clone [https://github.com/your-username/doctor-ai.git](https://github.com/aayushkap/Doctor-AI---Real-time-Transcription-AI-Powered-Insights.git)
    ```
 
 2. Navigate to the project folder:
